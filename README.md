@@ -1,16 +1,14 @@
-### Hi there 👋
+ Jesus Mava 👋
 
-<!--
-**jesusMava/jesusMava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@jesusMava
 
-Here are some ideas to get you started:
+Contact me at:  [LinkedIn](https://www.linkedin.com/in/jesus-macedo-a7697510b/) | jesusmacedo7@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/jesusMava/jesusMava/blob/master/img/github.png" width=100>
+  <br><br>
+</p>
+
+### Tools :fire:
+|<img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/vim.png" width=60> | <img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/tmux.png" width=60> | <img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/github.svg" width=60> |
+|:---:|:---:|:---:|
