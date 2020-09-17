@@ -9,6 +9,3 @@ Contact me at:  [LinkedIn](https://www.linkedin.com/in/jesus-macedo-a7697510b/) 
   <br><br>
 </p>
 
-### Tools :fire:
-|<img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/vim.png" width=60> | <img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/tmux.png" width=60> | <img src="https://github.com/jesusMava/jesusMava/blob/master/img/tools/github.svg" width=60> |
-|:---:|:---:|:---:|
